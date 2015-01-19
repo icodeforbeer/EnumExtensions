@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExtensions", "EnumExtensions\EnumExtensions.csproj", "{60F34D6F-ED72-4D66-9274-D5A039249206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExtensions.Tests", "EnumExtensions.Tests\EnumExtensions.Tests.csproj", "{5296C521-EBA5-4A0E-9E80-42169E89BBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5296C521-EBA5-4A0E-9E80-42169E89BBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5296C521-EBA5-4A0E-9E80-42169E89BBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5296C521-EBA5-4A0E-9E80-42169E89BBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5296C521-EBA5-4A0E-9E80-42169E89BBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F34D6F-ED72-4D66-9274-D5A039249206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F34D6F-ED72-4D66-9274-D5A039249206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F34D6F-ED72-4D66-9274-D5A039249206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F34D6F-ED72-4D66-9274-D5A039249206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
