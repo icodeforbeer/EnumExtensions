@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/saipuli/EnumExtensions.svg?branch=master)](https://travis-ci.org/saipuli/EnumExtensions)
+
 # Enum Extensions
 
 ## History
